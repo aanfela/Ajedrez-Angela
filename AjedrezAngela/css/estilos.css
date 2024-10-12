@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/img/fondo.jpg);
+    margin: 50px;
+}
+
+.beige {
+    background-color: beige;
+    height: 10vh;
+}
+
+.negro {
+    background-color: black;
+    height: 10vh;
+
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    color: aliceblue;
+    font-style: unset;
+ }
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    font-size: 30px;
+}
+.fondo {
+    background-image: url(/img/fondoNegro.jpg);
+    background-repeat: no-repeat;            
+}
+
+.fondo1 {
+    background-image: url(/img/fondoBeige.jpg);
+    background-repeat: no-repeat;
+            
+}
